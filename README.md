@@ -9,7 +9,7 @@
 I'm an independent developer passionate about building products that are not just functional, but also thoughtful and intuitive. I believe the best tools get out of your way, and I love the challenge of turning complex problems into elegant, simple solutions.
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,vite,vitest,tailwind,electron,cloudflare,workers,postgres,docker,go,py,solidity,bash,linux,git,github,githubactions,pnpm,yarn&perline=13" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, Vite, Vitest, Tailwind CSS, Electron, Cloudflare, Cloudflare Workers, PostgreSQL, Docker, Go, Python, Solidity, Bash, Linux, Git, GitHub, GitHub Actions, pnpm, and Yarn">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,vite,vitest,tailwind,cloudflare,workers,postgres,docker,go,py,solidity,linux,git,github,githubactions,pnpm&perline=11" alt="JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, Vite, Vitest, Tailwind CSS, Cloudflare, Cloudflare Workers, PostgreSQL, Docker, Go, Python, Solidity, Linux, Git, GitHub, GitHub Actions, and pnpm">
 </p>
 
 ---
